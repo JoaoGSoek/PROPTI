@@ -6,6 +6,9 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-Build-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
+<img width="1878" height="964" alt="image" src="https://github.com/user-attachments/assets/b883952d-bd64-421c-8591-c46a4cfe71f0" />
+
+
 ## 📋 Sobre o Projeto
 
 O **PROPTI** (Product Optimization) é um sistema Full Stack desenvolvido para gerenciamento de insumos e otimização de produção. O objetivo principal da aplicação é auxiliar gestores na tomada de decisão sobre o que produzir, maximizando o lucro com base no estoque de matérias-primas disponível.
