@@ -51,9 +51,22 @@ Para rodar o projeto localmente, você precisará ter instalado:
 *   **Java JDK 21** ou superior.
 *   **Node.js** (versão 20 ou superior recomendada).
 *   **PostgreSQL** (local ou via Docker).
-*   **Maven** (opcional, pois o projeto inclui o `mvnw`).
+*   **Docker & Docker Compose** (opcional, para rodar todo o ambiente).
 
 ## 🏃‍♂️ Como Rodar o Projeto
+
+### 🐳 Opção Rápida: Docker Compose (Backend + Banco)
+
+Se você tiver o Docker instalado, pode subir o banco de dados e a API com um único comando:
+
+```bash
+# Na raiz do projeto
+docker-compose up --build
+```
+
+---
+
+### Opção Manual:
 
 ### 1. Configuração do Banco de Dados
 
